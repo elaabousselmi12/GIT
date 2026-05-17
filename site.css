@@ -35,3 +35,21 @@ label{
     padding: 20px;
     color:red;
 }
+input[type=submit],input[type=reset]{
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 6px 10px;
+    position: relative left 15px;
+}
+input[type=sradio]{
+    padding:10px;
+}
+input[type=submit],input[type=reset]:hover{
+    background-color: rgb(101, 106, 172);
+    color:white;
+}
+input[type=submit],input[type=reset]:active{
+    background-color: purple;
+    color:white;
+}

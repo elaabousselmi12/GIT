@@ -1,0 +1,17 @@
+form{
+    width:600px;
+    margin: 20px auto;
+    background-color: rgb(152,185,152);
+    padding:20px;
+    border-radius: 10%;
+}
+h3{
+    text-align: center;
+    font-size: 24px;
+    color: rgb(21, 7, 71);
+}
+fieldset{
+    border: 2px rgb(102, 105, 154) groove;
+    margin-top: 20px;
+
+}

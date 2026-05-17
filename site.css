@@ -1,7 +1,7 @@
 form{
     width:600px;
     margin: 20px auto;
-    background-color: rgb(152,185,152);
+    background-color:blue;
     padding:20px;
     border-radius: 10%;
 }
@@ -19,7 +19,7 @@ legend{
     font-size: 20px;
     font-style: italic;
     font-weight: bold;
-    color:blue;
+    color:yellow;
 }
 input,textarea{ 
     width: 95%;
